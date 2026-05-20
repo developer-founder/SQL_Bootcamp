@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/ex07/day01_ex07.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/ex09/day01_ex09.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB4_DML.ID_574090-1/src/ex00/day03_ex00.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB4_DML.ID_574090-1/src/ex01/day03_ex01.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB4_DML.ID_574090-1/src/ex02/day03_ex02.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB4_DML.ID_574090-1/src/ex03/day03_ex03.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB4_DML.ID_574090-1/src/ex04/day03_ex04.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB4_DML.ID_574090-1/src/ex05/day03_ex05.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB4_DML.ID_574090-1/src/ex06/day03_ex06.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB4_DML.ID_574090-1/src/ex07/day03_ex07.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB4_DML.ID_574090-1/src/ex08/day03_ex08.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB4_DML.ID_574090-1/src/ex09/day03_ex09.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB4_DML.ID_574090-1/src/ex10/day03_ex10.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB4_DML.ID_574090-1/src/ex11/day03_ex11.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB4_DML.ID_574090-1/src/ex12/day03_ex12.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB4_DML.ID_574090-1/src/ex13/day03_ex13.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB5_Snapshots.ID_574092-1/src/ex00/day04_ex00.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB5_Snapshots.ID_574092-1/src/ex01/day04_ex01.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB5_Snapshots.ID_574092-1/src/ex02/day04_ex02.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB5_Snapshots.ID_574092-1/src/ex03/day04_ex03.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB5_Snapshots.ID_574092-1/src/ex04/day04_ex04.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB5_Snapshots.ID_574092-1/src/ex05/day04_ex05.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB5_Snapshots.ID_574092-1/src/ex06/day04_ex06.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB5_Snapshots.ID_574092-1/src/ex07/day04_ex07.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../SQLB5_Snapshots.ID_574092-1/src/ex08/day04_ex08.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB2_Retrieving_data.ID_574087-1/src/ex00/day01_ex00.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB2_Retrieving_data.ID_574087-1/src/ex01/day01_ex01.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB2_Retrieving_data.ID_574087-1/src/ex02/day01_ex02.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB2_Retrieving_data.ID_574087-1/src/ex03/day01_ex03.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB2_Retrieving_data.ID_574087-1/src/ex04/day01_ex04.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB2_Retrieving_data.ID_574087-1/src/ex05/day01_ex05.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB2_Retrieving_data.ID_574087-1/src/ex06/day01_ex06.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB2_Retrieving_data.ID_574087-1/src/ex07/day01_ex07.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB2_Retrieving_data.ID_574087-1/src/ex08/day01_ex08.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB2_Retrieving_data.ID_574087-1/src/ex09/day01_ex09.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB2_Retrieving_data.ID_574087-1/src/ex10/day01_ex10.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB3_Retrieving_data.ID_574089-1/src/ex00/day02_ex00.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB3_Retrieving_data.ID_574089-1/src/ex01/day02_ex01.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB3_Retrieving_data.ID_574089-1/src/ex02/day02_ex02.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB3_Retrieving_data.ID_574089-1/src/ex03/day02_ex03.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB3_Retrieving_data.ID_574089-1/src/ex04/day02_ex04.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB3_Retrieving_data.ID_574089-1/src/ex05/day02_ex05.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB3_Retrieving_data.ID_574089-1/src/ex06/day02_ex06.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB3_Retrieving_data.ID_574089-1/src/ex07/day02_ex07.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB3_Retrieving_data.ID_574089-1/src/ex08/day02_ex08.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB3_Retrieving_data.ID_574089-1/src/ex09/day02_ex09.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+    <file url="file://$PROJECT_DIR$/../../../proverka/SQLB3_Retrieving_data.ID_574089-1/src/ex10/day02_ex10.sql" value="90d0765e-0569-4da5-b90c-b993c8478cd6" />
+  </component>
+</project>
