@@ -224,9 +224,9 @@ psql -U username -d database_name
 
 **Таривердиев Ислам** - начинающий ML инженер
 
-[![Email](https://img.shields.io/badge/Email-Kurush333@yandex.ru-D14836?logo=gmail)](mailto: Kurush333@yandex.ru)
+[![Email](https://img.shields.io/badge/Email-Kurush333@yandex.ru-D14836?logo=gmail)](mailto:Kurush333@yandex.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-@tariverdievi-2CA5E0?logo=telegram&logoColor=white)](https://t.me/tariverdievi)
-[![GitHub](https://img.shields.io/badge/GitHub-developer-founder-181717?logo=github)](https://github.com/developer-founder)
+[![GitHub](https://img.shields.io/badge/GitHub-develop-founder-181717?logo=github)](https://github.com/develop-founder)
 
 ---
 
